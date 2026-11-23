@@ -1,0 +1,60 @@
+# 操作系统
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# 日志与临时文件
+*.log
+*.tmp
+*.cache
+
+# C / C++ 编译产物
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+CMakeCache.txt
+CMakeFiles/
+build/
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Java
+*.class
+target/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 环境变量与密钥
+.env
+*.pem
+*.key
